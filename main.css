@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Architects Daughter;
+  src: url()}
+
 body {
   background-image: url("http://www.publicdomainpictures.net/pictures/90000/velka/rainbow-stripes-background.jpg");
 }
@@ -19,5 +23,4 @@ h2 {
 
 div {
   text-align: center;
-  border-style: inset;'
 }
