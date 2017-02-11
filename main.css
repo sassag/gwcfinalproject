@@ -4,14 +4,14 @@ body {
 
 
 h1 {
-  color: blue;
+  color: PaleGreen;
   text-align: center;
   font-family: "Amatic SC";
   border-style: solid;
 }
 
 h2 {
-  color: Indigo;
+  color: LightCyan;
   text-align: center;
   font-family: "Architects Daughter";
 }
