@@ -1,6 +1,4 @@
-@font-face {
-  font-family: Architects Daughter;
-  src: url()}
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 
 body {
   background-image: url("http://www.publicdomainpictures.net/pictures/90000/velka/rainbow-stripes-background.jpg");
