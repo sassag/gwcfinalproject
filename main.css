@@ -2,6 +2,10 @@ body {
   background-image: url("http://www.publicdomainpictures.net/pictures/90000/velka/rainbow-stripes-background.jpg");
 }
 
+<style>
+@import url('https://fonts.googleapis.com/css?family=Bahiana');
+</style>
+
 h1 {
   color: blue;
   text-align: center;
