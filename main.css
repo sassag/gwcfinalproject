@@ -1,0 +1,20 @@
+body {
+  background-image: url("http://www.publicdomainpictures.net/pictures/90000/velka/rainbow-stripes-background.jpg");
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: "Courier New";
+  border-style: solid;
+}
+
+h2 {
+  color: royalblue;
+  text-align: center;
+  font-family: "Ubuntu"
+}
+
+div {
+  text-align: center;
+}
