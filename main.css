@@ -6,14 +6,14 @@ body {
 h1 {
   color: blue;
   text-align: center;
-  font-family: "Courier New";
+  font-family: "Amatic SC";
   border-style: solid;
 }
 
 h2 {
-  color: DarkRed;
+  color: Indigo;
   text-align: center;
-  font-family: "Ubuntu"
+  font-family: "Architects Daughter";
 }
 
 div {
