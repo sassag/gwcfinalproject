@@ -14,8 +14,10 @@ h2 {
   color: LightCyan;
   text-align: center;
   font-family: "Architects Daughter";
+  
 }
 
 div {
   text-align: center;
+  border-style: double;'
 }
