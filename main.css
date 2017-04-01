@@ -24,6 +24,10 @@ div {
   text-align: center;
 }
 
+p {
+  background-color:lightblue;
+}
+
 .color-button {
  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b7deed+0,71ceef+35,21b4e2+72,b7deed+100 */
 background: #b7deed; /* Old browsers */
