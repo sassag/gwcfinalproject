@@ -1,5 +1,7 @@
 body {
     background-image: url("https://www.xmple.com/wallpaper/3d-cubes-grey-green-white-1920x1080-c3-20b2aa-d3d3d3-f0ffff-l-190-a-150-f-11.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 h1 {
