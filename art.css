@@ -3,19 +3,20 @@ body {
 }
 
 h1 {
-  text-align : center
+  text-align: center;
+  border-style: solid;
 }
 
 p {
-  text-align : center
+  text-align: center;
 }
 
 h2 {
-  text-align:center
+  text-align:center;
 }
 
 div {
-  text-align: center
+  text-align: center;
 }
 
 
